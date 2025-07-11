@@ -78,6 +78,7 @@
 - 环境要求
   Windows 7/10/Server 2012+
   Npcap 1.80+（主机和应用资产测绘依赖，请在使用资产测绘功能前先安装npcap）
+- Visual C++ Redistributable 2025 （需要安装，不然会出现mysql安装失败，app.log报错为jdbc连接失败）
 - 程序包目录结构
   bin：启动程序所在目录
   data：系统初始化后数据库文件存放目录
