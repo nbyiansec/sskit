@@ -1,5 +1,7 @@
-安全运维工具箱v1.0.4版本已发布，主要优化功能修复Bug,欢迎小伙伴们下载使用！！！使用过程中如遇到问题可提交issues，后续将不定期更新程序，开放更多功能和完善操作文档。
+安全运维工具箱v1.0.5版本已发布，主要增加离线配置核查与加固功能，支持在离线环境下进行配置核查和加固，离线客户端兼容windows server 2008 R2及以上、主流linux操作系统（包括arm架构，国产化操作系统，如：统信UOS、银河麒麟等）,欢迎小伙伴们下载使用！！！使用过程中如遇到问题可提交issues，后续将不定期更新程序，开放更多功能和完善操作文档。
 下载地址：https://github.com/nbyiansec/sskit/releases
+<img width="1045" height="744" alt="image" src="https://github.com/user-attachments/assets/1cb16792-2b0c-456c-a8a1-38f72d3a8138" />
+
 
 ## 简介
 
